@@ -26,3 +26,6 @@ give name ,give label it is used to tag multiple agents in one group....for exam
 and go to created node click on that and copy command and run it on the build agents and add "&"in command because it will text u to next line without shut down connection
 
 then go to general and add git repository
+
+learn about ***** 
+

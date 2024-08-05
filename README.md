@@ -29,3 +29,4 @@ then go to general and add git repository
 
 learn about ***** 
 
+in jenkins we can do the job by using pipeline script
